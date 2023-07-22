@@ -1,0 +1,23 @@
+:root {
+    --background-color: #dbd6a3;
+}
+
+h1, p, .navigation {
+    text-align: center;
+}
+
+body {
+    background-color: var(--background-color);
+    padding: 10px;
+}
+
+.navigation a {
+    color: green;
+    padding: 5px 15px 5px 15px;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+    border-radius: 5px;
+}
